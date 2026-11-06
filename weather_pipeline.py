@@ -94,7 +94,7 @@ def fetch_and_process_aifs():
         with open(output_json, 'w', encoding='utf-8') as f:
             json.dump(extracted_data, f, ensure_ascii=False, indent=4)
             
-        print(جاري توليد ملف الـ JSON بنجاح: {output_json})
+        print(f"جاري توليد ملف ال JSON بنجاح: {output_json}")
 
     except Exception as e:
         print(f"حدث خطأ أثناء معالجة بيانات الـ GRIB: {e}")
