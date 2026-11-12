@@ -1,38 +1,38 @@
 {
     "Algiers": {
-        "temperature_celsius": 26.5,
-        "pressure_hpa": 998.8,
-        "precipitation_mm": 0.0,
+        "temperature_celsius": 22.6,
+        "pressure_hpa": 1006.8,
+        "precipitation_mm": 31.2,
         "snow_mm": 0.0,
         "wind_speed_kmh": 0.0,
-        "thunder_risk": "LOW",
+        "thunder_risk": "MODERATE",
         "dust_risk": "LOW",
-        "condition": "Clear"
+        "condition": "Rain"
     },
     "Oran": {
-        "temperature_celsius": 21.8,
-        "pressure_hpa": 1019.4,
-        "precipitation_mm": 312.5,
+        "temperature_celsius": 22.1,
+        "pressure_hpa": 1015.0,
+        "precipitation_mm": 250.0,
+        "snow_mm": 0.0,
+        "wind_speed_kmh": 0.0,
+        "thunder_risk": "MODERATE",
+        "dust_risk": "LOW",
+        "condition": "Rain"
+    },
+    "Constantine": {
+        "temperature_celsius": 20.6,
+        "pressure_hpa": 1007.1,
+        "precipitation_mm": 218.8,
         "snow_mm": 0.0,
         "wind_speed_kmh": 0.0,
         "thunder_risk": "LOW",
         "dust_risk": "LOW",
         "condition": "Rain"
     },
-    "Constantine": {
-        "temperature_celsius": 20.3,
-        "pressure_hpa": 1005.0,
-        "precipitation_mm": 0.0,
-        "snow_mm": 0.0,
-        "wind_speed_kmh": 0.0,
-        "thunder_risk": "LOW",
-        "dust_risk": "LOW",
-        "condition": "Clear"
-    },
     "Annaba": {
-        "temperature_celsius": 25.0,
-        "pressure_hpa": 1001.8,
-        "precipitation_mm": 62.5,
+        "temperature_celsius": 23.6,
+        "pressure_hpa": 1005.9,
+        "precipitation_mm": 31.2,
         "snow_mm": 0.0,
         "wind_speed_kmh": 0.0,
         "thunder_risk": "MODERATE",
@@ -40,48 +40,48 @@
         "condition": "Rain"
     },
     "Tlemcen": {
-        "temperature_celsius": 21.8,
-        "pressure_hpa": 1020.5,
+        "temperature_celsius": 22.1,
+        "pressure_hpa": 1016.7,
         "precipitation_mm": 125.0,
         "snow_mm": 0.0,
         "wind_speed_kmh": 0.0,
-        "thunder_risk": "LOW",
+        "thunder_risk": "MODERATE",
         "dust_risk": "LOW",
         "condition": "Rain"
     },
     "Biskra": {
-        "temperature_celsius": 20.8,
-        "pressure_hpa": 1008.9,
-        "precipitation_mm": 156.2,
+        "temperature_celsius": 25.6,
+        "pressure_hpa": 1006.6,
+        "precipitation_mm": 343.8,
         "snow_mm": 0.0,
         "wind_speed_kmh": 0.0,
-        "thunder_risk": "LOW",
+        "thunder_risk": "MODERATE",
         "dust_risk": "LOW",
         "condition": "Rain"
     },
     "Ouargla": {
-        "temperature_celsius": 19.3,
-        "pressure_hpa": 1010.9,
+        "temperature_celsius": 30.1,
+        "pressure_hpa": 1008.0,
         "precipitation_mm": 0.0,
         "snow_mm": 0.0,
         "wind_speed_kmh": 0.0,
         "thunder_risk": "LOW",
         "dust_risk": "LOW",
-        "condition": "Clouds"
+        "condition": "Clear"
     },
     "Tamanrasset": {
-        "temperature_celsius": 17.5,
-        "pressure_hpa": 1018.9,
+        "temperature_celsius": 24.6,
+        "pressure_hpa": 1017.9,
         "precipitation_mm": 0.0,
         "snow_mm": 0.0,
         "wind_speed_kmh": 0.0,
         "thunder_risk": "LOW",
         "dust_risk": "LOW",
-        "condition": "Clouds"
+        "condition": "Clear"
     },
     "Bejaia": {
-        "temperature_celsius": 24.0,
-        "pressure_hpa": 999.4,
+        "temperature_celsius": 22.1,
+        "pressure_hpa": 1005.9,
         "precipitation_mm": 0.0,
         "snow_mm": 0.0,
         "wind_speed_kmh": 0.0,
@@ -90,12 +90,12 @@
         "condition": "Clear"
     },
     "El Milia": {
-        "temperature_celsius": 22.3,
-        "pressure_hpa": 1001.9,
-        "precipitation_mm": 156.2,
+        "temperature_celsius": 19.8,
+        "pressure_hpa": 1007.1,
+        "precipitation_mm": 468.8,
         "snow_mm": 0.0,
         "wind_speed_kmh": 0.0,
-        "thunder_risk": "MODERATE",
+        "thunder_risk": "LOW",
         "dust_risk": "LOW",
         "condition": "Rain"
     }
