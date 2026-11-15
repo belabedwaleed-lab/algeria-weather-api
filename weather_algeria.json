@@ -1,18 +1,18 @@
 {
     "Algiers": {
-        "temperature_celsius": 23.5,
-        "pressure_hpa": 1021.8,
+        "temperature_celsius": 17.2,
+        "pressure_hpa": 1022.2,
         "precipitation_mm": 0.0,
         "snow_mm": 0.0,
         "wind_speed_kmh": 0.0,
         "thunder_risk": "LOW",
         "dust_risk": "LOW",
-        "condition": "Clear"
+        "condition": "Clouds"
     },
     "Oran": {
-        "temperature_celsius": 20.0,
-        "pressure_hpa": 1009.7,
-        "precipitation_mm": 52750.0,
+        "temperature_celsius": 19.0,
+        "pressure_hpa": 1015.9,
+        "precipitation_mm": 57750.0,
         "snow_mm": 0.0,
         "wind_speed_kmh": 0.0,
         "thunder_risk": "LOW",
@@ -20,29 +20,29 @@
         "condition": "Rain"
     },
     "Constantine": {
-        "temperature_celsius": 23.0,
-        "pressure_hpa": 1022.4,
+        "temperature_celsius": 11.7,
+        "pressure_hpa": 1022.8,
         "precipitation_mm": 0.0,
         "snow_mm": 0.0,
         "wind_speed_kmh": 0.0,
         "thunder_risk": "LOW",
         "dust_risk": "LOW",
-        "condition": "Clear"
+        "condition": "Clouds"
     },
     "Annaba": {
-        "temperature_celsius": 23.5,
-        "pressure_hpa": 1022.2,
-        "precipitation_mm": 250.0,
+        "temperature_celsius": 17.0,
+        "pressure_hpa": 1021.8,
+        "precipitation_mm": 625.0,
         "snow_mm": 0.0,
         "wind_speed_kmh": 0.0,
-        "thunder_risk": "MODERATE",
+        "thunder_risk": "LOW",
         "dust_risk": "LOW",
         "condition": "Rain"
     },
     "Tlemcen": {
-        "temperature_celsius": 21.0,
-        "pressure_hpa": 1009.9,
-        "precipitation_mm": 52125.0,
+        "temperature_celsius": 19.2,
+        "pressure_hpa": 1015.2,
+        "precipitation_mm": 51500.0,
         "snow_mm": 0.0,
         "wind_speed_kmh": 0.0,
         "thunder_risk": "LOW",
@@ -50,49 +50,49 @@
         "condition": "Rain"
     },
     "Biskra": {
-        "temperature_celsius": 25.5,
-        "pressure_hpa": 1023.1,
+        "temperature_celsius": 17.5,
+        "pressure_hpa": 1022.2,
         "precipitation_mm": 0.0,
         "snow_mm": 0.0,
         "wind_speed_kmh": 0.0,
         "thunder_risk": "LOW",
         "dust_risk": "LOW",
-        "condition": "Clear"
+        "condition": "Clouds"
     },
     "Ouargla": {
-        "temperature_celsius": 28.5,
-        "pressure_hpa": 1022.1,
+        "temperature_celsius": 20.0,
+        "pressure_hpa": 1021.5,
         "precipitation_mm": 0.0,
         "snow_mm": 0.0,
         "wind_speed_kmh": 0.0,
         "thunder_risk": "LOW",
         "dust_risk": "LOW",
-        "condition": "Clear"
+        "condition": "Clouds"
     },
     "Tamanrasset": {
-        "temperature_celsius": 29.5,
-        "pressure_hpa": 1020.7,
+        "temperature_celsius": 19.5,
+        "pressure_hpa": 1021.2,
         "precipitation_mm": 0.0,
         "snow_mm": 0.0,
         "wind_speed_kmh": 0.0,
         "thunder_risk": "LOW",
         "dust_risk": "LOW",
-        "condition": "Clear"
+        "condition": "Clouds"
     },
     "Bejaia": {
-        "temperature_celsius": 23.0,
-        "pressure_hpa": 1021.9,
-        "precipitation_mm": 125.0,
+        "temperature_celsius": 15.2,
+        "pressure_hpa": 1021.7,
+        "precipitation_mm": 0.0,
         "snow_mm": 0.0,
         "wind_speed_kmh": 0.0,
-        "thunder_risk": "MODERATE",
+        "thunder_risk": "LOW",
         "dust_risk": "LOW",
-        "condition": "Rain"
+        "condition": "Clouds"
     },
     "El Milia": {
-        "temperature_celsius": 22.0,
-        "pressure_hpa": 1022.6,
-        "precipitation_mm": 500.0,
+        "temperature_celsius": 11.7,
+        "pressure_hpa": 1022.2,
+        "precipitation_mm": 125.0,
         "snow_mm": 0.0,
         "wind_speed_kmh": 0.0,
         "thunder_risk": "LOW",
